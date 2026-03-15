@@ -32,6 +32,16 @@ ln -s "$PWD/google-play-console-cli-skills/skills/gpc-release-flow" "$CODEX_HOME
 
 - `gpc-review-triage`
 - `gpc-monetization-setup`
+- `gpc-changelog-sync`
+- `gpc-listing-sync`
+- `gpc-subscription-sync`
+- `gpc-product-sync`
+- `gpc-financial-reports`
+- `gpc-generated-apks`
+- `gpc-internal-sharing`
+- `gpc-doctor-audit`
+- `gpc-diff-review`
+- `gpc-release-verify`
 
 ## Repository Layout
 
